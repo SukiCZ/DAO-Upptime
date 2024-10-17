@@ -40,18 +40,20 @@
     "url": "https://toncommunityhub.com",
     "icon": "https://icons.duckduckgo.com/ip3/toncommunityhub.com.ico",
     "slug": "ton-community",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 663,
-    "timeDay": 559,
-    "timeWeek": 713,
-    "timeMonth": 663,
-    "timeYear": 663,
-    "dailyMinutesDown": {}
+    "time": 710,
+    "timeDay": 1009,
+    "timeWeek": 806,
+    "timeMonth": 710,
+    "timeYear": 710,
+    "dailyMinutesDown": {
+      "2024-10-17": 0
+    }
   },
   {
     "name": "Autonomys Community",
