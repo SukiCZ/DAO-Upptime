@@ -41,18 +41,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/toncommunityhub.com.ico",
     "slug": "ton-community",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.77%",
+    "uptimeDay": "96.56%",
+    "uptimeWeek": "99.51%",
+    "uptimeMonth": "99.77%",
+    "uptimeYear": "99.77%",
     "time": 710,
     "timeDay": 1009,
     "timeWeek": 806,
     "timeMonth": 710,
     "timeYear": 710,
     "dailyMinutesDown": {
-      "2024-10-17": 0
+      "2024-10-17": 50
     }
   },
   {
@@ -60,18 +60,20 @@
     "url": "https://community.autonomys.xyz",
     "icon": "https://icons.duckduckgo.com/ip3/community.autonomys.xyz.ico",
     "slug": "autonomys-community",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 510,
-    "timeDay": 403,
-    "timeWeek": 540,
-    "timeMonth": 510,
-    "timeYear": 510,
-    "dailyMinutesDown": {}
+    "time": 498,
+    "timeDay": 356,
+    "timeWeek": 511,
+    "timeMonth": 498,
+    "timeYear": 498,
+    "dailyMinutesDown": {
+      "2024-10-17": 0
+    }
   },
   {
     "name": "Sandbox Community",
