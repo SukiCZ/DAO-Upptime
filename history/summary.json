@@ -11,8 +11,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 559,
-    "timeDay": 507,
-    "timeWeek": 553,
+    "timeDay": 564,
+    "timeWeek": 566,
     "timeMonth": 559,
     "timeYear": 559,
     "dailyMinutesDown": {}
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 463,
-    "timeDay": 630,
-    "timeWeek": 524,
-    "timeMonth": 463,
-    "timeYear": 463,
+    "time": 465,
+    "timeDay": 544,
+    "timeWeek": 539,
+    "timeMonth": 465,
+    "timeYear": 465,
     "dailyMinutesDown": {}
   },
   {
@@ -41,16 +41,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/toncommunityhub.com.ico",
     "slug": "ton-community",
     "status": "up",
-    "uptime": "99.85%",
+    "uptime": "99.86%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.85%",
-    "uptimeYear": "99.85%",
-    "time": 667,
-    "timeDay": 737,
-    "timeWeek": 658,
-    "timeMonth": 667,
-    "timeYear": 667,
+    "uptimeMonth": "99.86%",
+    "uptimeYear": "99.86%",
+    "time": 670,
+    "timeDay": 784,
+    "timeWeek": 702,
+    "timeMonth": 670,
+    "timeYear": 670,
     "dailyMinutesDown": {
       "2024-10-17": 62
     }
@@ -66,11 +66,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.87%",
     "uptimeYear": "99.87%",
-    "time": 533,
-    "timeDay": 692,
-    "timeWeek": 589,
-    "timeMonth": 533,
-    "timeYear": 533,
+    "time": 538,
+    "timeDay": 686,
+    "timeWeek": 628,
+    "timeMonth": 538,
+    "timeYear": 538,
     "dailyMinutesDown": {
       "2024-10-17": 56
     }
@@ -86,11 +86,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 664,
-    "timeDay": 833,
-    "timeWeek": 719,
-    "timeMonth": 664,
-    "timeYear": 664,
+    "time": 670,
+    "timeDay": 854,
+    "timeWeek": 769,
+    "timeMonth": 670,
+    "timeYear": 670,
     "dailyMinutesDown": {}
   }
 ]
