@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 559,
-    "timeDay": 564,
-    "timeWeek": 566,
-    "timeMonth": 559,
-    "timeYear": 559,
+    "time": 551,
+    "timeDay": 289,
+    "timeWeek": 549,
+    "timeMonth": 555,
+    "timeYear": 551,
     "dailyMinutesDown": {}
   },
   {
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 465,
-    "timeDay": 544,
-    "timeWeek": 539,
+    "time": 462,
+    "timeDay": 357,
+    "timeWeek": 541,
     "timeMonth": 465,
-    "timeYear": 465,
+    "timeYear": 462,
     "dailyMinutesDown": {}
   },
   {
@@ -46,11 +46,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.86%",
     "uptimeYear": "99.86%",
-    "time": 670,
-    "timeDay": 784,
-    "timeWeek": 702,
-    "timeMonth": 670,
-    "timeYear": 670,
+    "time": 665,
+    "timeDay": 479,
+    "timeWeek": 700,
+    "timeMonth": 666,
+    "timeYear": 665,
     "dailyMinutesDown": {
       "2024-10-17": 62
     }
@@ -61,16 +61,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/community.autonomys.xyz.ico",
     "slug": "autonomys-community",
     "status": "up",
-    "uptime": "99.87%",
+    "uptime": "99.88%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.87%",
-    "uptimeYear": "99.87%",
-    "time": 538,
-    "timeDay": 686,
-    "timeWeek": 628,
-    "timeMonth": 538,
-    "timeYear": 538,
+    "uptimeYear": "99.88%",
+    "time": 533,
+    "timeDay": 386,
+    "timeWeek": 621,
+    "timeMonth": 539,
+    "timeYear": 533,
     "dailyMinutesDown": {
       "2024-10-17": 56
     }
@@ -86,11 +86,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 670,
-    "timeDay": 854,
-    "timeWeek": 769,
-    "timeMonth": 670,
-    "timeYear": 670,
+    "time": 666,
+    "timeDay": 539,
+    "timeWeek": 760,
+    "timeMonth": 671,
+    "timeYear": 666,
     "dailyMinutesDown": {}
   }
 ]
